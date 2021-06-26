@@ -4,7 +4,7 @@ This game was created as part of a project for the YogsCast game Jam event in 20
 
 My contribution was coding the coins and design the map layout.
 
-I label the file I was responsible for as My file.
+I label the file I was responsible for as Callums Scripts.
 
 The game we produced can be found here : My username at the time was KillerKing86
 https://arkmaley.itch.io/madcat-content-thief
